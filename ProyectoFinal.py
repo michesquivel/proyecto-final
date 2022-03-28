@@ -134,7 +134,7 @@ def series_to_supervised(data, n_in=1, n_out=1, dropnan=True):
 	return agg.values
  
 # load the dataset
-#series = read_csv('C:/Users/luisi/OneDrive/Documentos/JC Respaldo/prueba_luis_forecast/Venta Historíca 7 Tiendas Qro.csv')
+#series = read_csv('C:/Users/MICH/Downloads/Venta Historíca 7 Tiendas Qro.csv')
 
 series = a
 values = series.values
